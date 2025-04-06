@@ -48,3 +48,9 @@ git clone https://github.com/your-username/crypto-news-aggregator.git
 cd crypto-news-aggregator
 cargo build
 cargo run
+
+### Keys
+
+```bash
+API_KEY=your_cryptonews_api_key
+COINMARKETCAP_API_KEY=your_coinmarketcap_api_key
