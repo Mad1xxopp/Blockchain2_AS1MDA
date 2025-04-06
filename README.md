@@ -35,7 +35,7 @@ Build a lightweight and efficient cryptocurrency news aggregator using Rust. The
 - Daniarbek Madiyar
 - Zholdybayev Didar
 - Zhumabayev Alibek
-- 
+  
 ### Prerequisites
 
 - Rust & Cargo installed (`rustup`)
