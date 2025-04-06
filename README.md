@@ -13,7 +13,7 @@ Build a lightweight and efficient cryptocurrency news aggregator using Rust. The
 - **Backend**: Rust (using crates like `reqwest`, `tokio`, `serde`, `actix-web`)
 - **Frontend**: Rust-based frontend framework like [Yew](https://yew.rs/)
 - **Data Sources**:
-  - [News API](https://newsapi.org/))
+  - [News API](https://newsapi.org/)
   - [CoinMarketCap](https://coinmarketcap.com/)
 - **(Optional) Caching & Storage**:
   - Redis
